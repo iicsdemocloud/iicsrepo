@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "5eKtJYZwKOabf0LgBOGvMP",
+    "name" : "MONITORING_USING_CDI",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "contain REST API for taskflow monitoring",
+        "contentType" : null,
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-05-07T10:39:38.286Z",
+  "objectRefs" : [ ]
+}
