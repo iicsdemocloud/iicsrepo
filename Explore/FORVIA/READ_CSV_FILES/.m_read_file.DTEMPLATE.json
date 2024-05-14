@@ -17,13 +17,13 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-05-14T10:30:56.568Z",
+  "updateTime" : "2024-05-14T10:37:12.518Z",
   "objectRefs" : [ {
     "id" : "2h9syZpaW9UljwBUS32hsE",
     "name" : "DEMO_FOLDER_OUT",

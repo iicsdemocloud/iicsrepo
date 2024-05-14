@@ -23,7 +23,7 @@
     }
   },
   "dataFileExtension" : "zip",
-  "updateTime" : "2024-05-14T10:30:56.568Z",
+  "updateTime" : "2024-05-14T10:37:12.518Z",
   "objectRefs" : [ {
     "id" : "cwikHorvpIJdNMPsqnKUar",
     "name" : "m_read_file",
@@ -42,7 +42,7 @@
       } ],
       "additionalInfo" : {
         "description" : "",
-        "contentType" : null,
+        "contentType" : "JSON",
         "documentState" : "VALID"
       }
     },
