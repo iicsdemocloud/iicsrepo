@@ -1,0 +1,23 @@
+{
+  "objectInfo" : {
+    "id" : "a0wiTTCdyIShkXSOKv60UF",
+    "name" : "DEMO_PARAMFILE",
+    "type" : "Folder",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 0,
+        "minor" : 0
+      },
+      "repoInfo" : null,
+      "contextAttributes" : [ ],
+      "additionalInfo" : {
+        "description" : "",
+        "contentType" : "Binary",
+        "documentState" : "COMPLETE"
+      }
+    }
+  },
+  "dataFileExtension" : "json",
+  "updateTime" : "2024-05-23T08:55:28.078Z",
+  "objectRefs" : [ ]
+}
